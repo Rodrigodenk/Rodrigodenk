@@ -17,6 +17,10 @@ Tenho interesse em oportunidades tanto em **PCP** quanto em **desenvolvimento de
 
 ### MES para acompanhamento da produção de rotomoldagem
 
+![Tela de login do sistema MES](mes-login.png)
+
+*Interface de acesso ao sistema utilizado na rotina de produção.*
+
 Participo da criação e evolução de um sistema MES utilizado na minha rotina profissional. O projeto começou como teste e passou a apoiar o acompanhamento da produção no dia a dia.
 
 - Organização de ordens de produção e apontamentos.
