@@ -20,7 +20,7 @@ Participo do desenvolvimento com apoio de IA: defino as necessidades do processo
 
 ## Experiência e ferramentas
 
-Na Krenke, atuo no PCP desde junho de 2025, com programação da produção, planejamento de setups, distribuição entre máquinas e liderança operacional diária. Reformulei ordens de produção com cores e tradução para facilitar a leitura por equipes com diferentes idiomas e níveis de leitura.
+Na Krenke, atuo no PCP desde junho de 2025, com programação da produção, planejamento de setups, distribuição entre máquinas e liderança operacional diária. Reformulei ordens de produção com cores e tradução para facilitar a compreensão por equipes com diferentes idiomas e níveis de leitura.
 
 - **Desenvolvimento:** HTML, CSS e JavaScript.
 - **Rotina de PCP:** Excel, FoccoERP, ordens de produção e OEE.
