@@ -2,55 +2,32 @@
   <img src="github-header.png" alt="Rodrigo Denk Rosa — PCP, software e dados" width="100%">
 </p>
 
-<p align="center"><strong>Planejamento e Controle da Produção · Desenvolvimento de Software · Melhoria de Processos</strong></p>
-<p align="center"><a href="https://www.linkedin.com/in/rodrigo-denk-rosa-ba9922223/">LinkedIn</a> · <a href="https://github.com/Rodrigodenk?tab=repositories">Projetos no GitHub</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/rodrigo-denk-rosa-ba9922223/">LinkedIn</a> · <a href="#projeto-mes">Projeto MES</a> · <a href="https://github.com/Rodrigodenk?tab=repositories">Repositórios</a></p>
 
-## Sobre mim
+Trabalho no **Planejamento e Controle da Produção** de uma fábrica de rotomoldagem e estou concluindo **Engenharia de Software**. Organizo a produção, acompanho o OEE e desenvolvo ferramentas para problemas que encontro no trabalho.
 
-Sou Rodrigo Denk Rosa, profissional de PCP na Krenke e graduando em Engenharia de Software. Minha experiência no chão de fábrica me ajuda a entender problemas de produção e transformá-los em requisitos para soluções digitais.
+## Projeto MES
 
-Atuo com programação da produção de rotomoldagem, análise de setups e capacidade de máquinas, acompanhamento de OEE, ordens de produção, apontamentos e melhoria de processos. Também exerço liderança operacional no dia a dia, em contato com produção, qualidade e acabamento.
+**Sistema de acompanhamento da produção · Em uso profissional**
 
-Tenho interesse em oportunidades tanto em **PCP** quanto em **desenvolvimento de software**, especialmente em projetos que conectem processos, produção e dados.
-
-## Projeto em uso profissional
-
-### MES para acompanhamento da produção de rotomoldagem
+O projeto nasceu da minha rotina no PCP. Começou como teste e hoje utilizo o sistema para acompanhar ordens de produção, apontamentos, metas e indicadores de OEE.
 
 ![Tela de login do sistema MES](mes-login.png)
 
-*Interface de acesso ao sistema utilizado na rotina de produção.*
+**HTML · CSS · JavaScript**
 
-Participo da criação e evolução de um sistema MES utilizado na minha rotina profissional. O projeto começou como teste e passou a apoiar o acompanhamento da produção no dia a dia.
+Participo do desenvolvimento com apoio de IA: defino as necessidades do processo, construo e ajusto as interfaces e testo a ferramenta na fábrica. A imagem mostra a tela de acesso; código e dados operacionais permanecem internos.
 
-- Organização de ordens de produção e apontamentos.
-- Acompanhamento de metas e resultados por período.
-- Metas variáveis por máquina e carro, considerando peso por ciclo e ciclos previstos.
-- Dashboard OEE e gráficos para acompanhamento dos indicadores.
-- Tela de login para acesso à aplicação.
+## Experiência e ferramentas
 
-Minha contribuição conecta o conhecimento do processo produtivo à definição de requisitos, validação prática e evolução da ferramenta. Utilizo IA como apoio ao desenvolvimento com HTML, CSS e JavaScript.
+Na Krenke, atuo no PCP desde junho de 2025, com programação da produção, planejamento de setups, distribuição entre máquinas e liderança operacional diária. Reformulei ordens de produção com cores e tradução para facilitar a leitura por equipes com diferentes idiomas e níveis de leitura.
 
-*O código e os dados operacionais são de uso interno.*
+- **Desenvolvimento:** HTML, CSS e JavaScript.
+- **Rotina de PCP:** Excel, FoccoERP, ordens de produção e OEE.
+- **Em aprendizado:** Power BI e estruturação de bancos de dados.
 
-## Experiência que trago para o desenvolvimento
+## Formação e interesses
 
-- **Visão de processo:** definição de prioridades, distribuição das peças entre máquinas e análise de tempos e setups.
-- **Dados na rotina:** acompanhamento mensal de OEE, planilhas e registros de produção.
-- **Interfaces acessíveis:** reformulação de ordens de produção com cores e tradução para facilitar a compreensão por equipes com diferentes idiomas e níveis de leitura.
-- **Melhoria contínua:** criação e teste de processos, com participação na evolução da produção e no alcance de um recorde mensal da fábrica.
+Engenharia de Software na **UniCesumar** e Técnico em Finanças na **UNIASSELVI**, ambos com conclusão prevista para dezembro de 2026.
 
-## Tecnologias e ferramentas
-
-| Uso na prática | Em aprendizado |
-| --- | --- |
-| HTML · CSS · JavaScript | Power BI · Estruturação de bancos de dados |
-| Excel · Word · FoccoERP | |
-| IA como apoio ao desenvolvimento | |
-
-## Formação
-
-- **Engenharia de Software — UniCesumar (EAD):** conclusão prevista para o fim de 2026. Primeira metade da graduação cursada presencialmente na Católica de Santa Catarina.
-- **Técnico em Finanças — UNIASSELVI (EAD):** conclusão prevista para o fim de 2026.
-
-Tenho interesse em aprender Java e, em projetos pessoais, explorar robótica com Arduino.
+Busco oportunidades em **PCP e desenvolvimento de software**. Tenho interesse em aprender Java e explorar robótica com Arduino em projetos pessoais.
