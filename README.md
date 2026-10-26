@@ -26,6 +26,8 @@ Criei o projeto a partir de uma dificuldade do chão de fábrica: relacionar có
 
 O catálogo permite pesquisar por código ou descrição, consultar imagens e peso e visualizar a posição da peça no conjunto montado. A versão portátil reúne imagens e dados em um arquivo para consulta sem internet. A edição fica em uma ferramenta separada, protegida por senha.
 
+![SistemaVIZU — Catálogo visual de peças offline](vizu-catalogo.png)
+
 **HTML · CSS · JavaScript · Dados locais**
 
 Com apoio de IA, defini os requisitos, organizei o cadastro, vinculei peças aos conjuntos, ajustei a interface e validei a consulta offline. Código e cadastro operacional permanecem internos.
