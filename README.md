@@ -4,7 +4,17 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/rodrigo-denk-rosa-ba9922223/">LinkedIn</a> · <a href="#projeto-mes">MES</a> · <a href="#sistemavizu">VIZU</a> · <a href="#sistema-de-separação-e-conferência">Conferência</a> · <a href="https://github.com/Rodrigodenk?tab=repositories">Repositórios</a></p>
 
-Trabalho no **Planejamento e Controle da Produção** de uma fábrica de rotomoldagem e estou concluindo **Engenharia de Software**. Organizo a produção, acompanho o OEE e desenvolvo ferramentas para problemas que encontro no trabalho.
+**PCP · Logística operacional · Melhoria de processos · FoccoERP · Sistemas para produção**
+
+Conecto a experiência no chão de fábrica ao desenvolvimento de sistemas. Atuo em **Planejamento e Controle da Produção**, tenho experiência em **almoxarifado e movimentação de materiais** e sou **graduando em Engenharia de Software**.
+
+### Competências na prática
+
+- **PCP e indicadores:** programação da produção, planejamento de setups, distribuição entre máquinas, ordens de produção e acompanhamento de OEE.
+- **Logística operacional:** experiência como almoxarife na WEG e operador de empilhadeira na Krenke; definição de fluxos de separação e conferência no projeto para tablet e Android.
+- **Processos e eficiência:** identificação de falhas, padronização de registros e reformulação de ordens com cores e tradução para facilitar a compreensão da equipe.
+- **ERP e sistemas de gestão:** uso de **FoccoERP e Excel** na rotina de PCP e participação na criação, evolução e validação de um **MES em uso profissional**.
+- **Requisitos e software:** levantamento de necessidades, definição de regras e fluxos operacionais, interfaces e validação de soluções, com **desenvolvimento assistido por IA**. HTML, CSS e JavaScript; tecnologias de cada projeto detalhadas abaixo.
 
 ## Projeto MES
 
